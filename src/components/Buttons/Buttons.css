@@ -1,0 +1,22 @@
+.searchButton{
+    width: 24px;
+    height: 24px;
+    padding: 2px;
+    background-color: var(--gold);
+    border: none;
+    border-radius: 8px;
+}
+.actionButton{
+    padding: 8px 16px;
+    background-color: var(--gold);
+    width: fit-content;
+    border: none;
+    border-radius: 8px;
+}
+.cancelButton{
+    padding: 8px 16px;
+    background-color: var(--white);
+    width: fit-content;
+    border: none;
+    border-radius: 8px;
+}
