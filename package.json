@@ -2,7 +2,7 @@
   "name": "macdo-map-search",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Corentin-DELAISTRE.github.io/examen_module_frameworks_front",
+  "homepage": "https://Corentin-DELAISTRE.github.io/examen_module_frameworks_front/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
